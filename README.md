@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://your-screenshot-url-here.com/hero-image.png" alt="Dragon Quest VII Reimagined Guide Banner" width="100%" />
+  <img src="hero-image.webp" alt="Dragon Quest VII Guide Banner" width="100%" />
 
   <br />
 
